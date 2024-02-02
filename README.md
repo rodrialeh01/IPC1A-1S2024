@@ -17,7 +17,11 @@ Este repositorio esta orientado a apoyar a los estudiantes de IPC1 de lo desarol
 
 ## 🚀 Navegación
 
+### Unidades del Laboratorio
 - [`☕️ Unidad 1:`](./Unidad1) Fundamentos de Programación y JAVA
+
+### Extras
+- [`🧑‍💻 Práctica 1`](./Practica1/)
 
 ## 👤Contacto
 
