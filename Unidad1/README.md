@@ -78,3 +78,8 @@ En esta clase se abarc+o los temas de memoria y de como se almacenan los datos e
 ### 💻 Código de la Clase
 
 Lo puedes encontrar en:  [Clase2/src/clase2/Clase2.java](./Clase2/src/clase2/Clase2.java)
+
+---
+### ✌️Extra
+La solución de la tarea 1 la puedes encontrar en: [Tarea1/src/Main.java](./Tarea1/src/Main.java)
+```
