@@ -19,6 +19,8 @@ Este repositorio esta orientado a apoyar a los estudiantes de IPC1 de lo desarol
 
 ### Unidades del Laboratorio
 - [`☕️ Unidad 1:`](./Unidad1) Fundamentos de Programación y JAVA
+- [`😼 Unidad 2:`](./Unidad2) Versionamiento
+- [`🐞 Unidad 3:`](./Unidad3/) Manejo de errores, debug y pruebas
 
 ### Extras
 - [`🧑‍💻 Práctica 1`](./Practica1/)

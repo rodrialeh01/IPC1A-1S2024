@@ -48,7 +48,7 @@ Lo puedes encontrar en:  [Clase1/Ejemplo1/src/ejemplo1/Ejemplo1.java](./Clase1/E
 
 _Fecha: 02-02-2024_
 
-En esta clase se abarc+o los temas de memoria y de como se almacenan los datos en la memoria, ademas de como se declaran los arreglos y matrices en JAVA.
+En esta clase se abarcó los temas de memoria y de como se almacenan los datos en la memoria, ademas de como se declaran los arreglos y matrices en JAVA.
 
 ### 📖 Contenido:
 
