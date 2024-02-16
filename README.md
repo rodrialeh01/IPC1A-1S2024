@@ -5,7 +5,7 @@ public class IPC1A {
   public static void main(String[] args) {
     System.out.println("========================================================");
     System.out.println("= Tutor Académico: Rodrigo Alejandro Hernández de León =");
-    System.out.println("= Curso: Introducción a la Pogramación y Computación 1 =");
+    System.out.println("= Curso: Introducción a la Programación y Computación 1 =");
     System.out.println("= Sección: A                                           =");
     System.out.println("= Periodo: Primer Semestre 2024                        =");
     System.out.println("========================================================");
