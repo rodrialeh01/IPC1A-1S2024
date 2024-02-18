@@ -25,6 +25,7 @@ Este repositorio esta orientado a apoyar a los estudiantes de IPC1 de lo desarol
 
 ### Extras
 - [`🧑‍💻 Práctica 1`](./Practica1/)
+- [`👨🏻‍⚕️ Proyecto 1`](./Proyecto1/)
 
 ## 👤Contacto
 
