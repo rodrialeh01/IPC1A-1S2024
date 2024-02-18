@@ -48,12 +48,15 @@
 1. Módulo Administrador
     1. Pestaña Doctor
     2. Pestaña Paciente
-    3. Pestaña Producto 
-2. Módulo Doctor
+    3. Pestaña Producto
+2. Módulo de Autenticación
+    1. Registro
+    2. Login
+4. Módulo Doctor
     1. Pestaña Agregar horario
-3. Módulo Paciente
+5. Módulo Paciente
     1. Pestaña Productos Farmacia
     2. Pestaña Crear Cita
     3. Pestaña Historial de citas
-4. Módulo Doctor
+6. Módulo Doctor
     1. Pestaña Citas
