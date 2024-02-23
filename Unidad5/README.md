@@ -1,6 +1,6 @@
 # 💻 Unidad 5: Interafces Gráficas en JAVA
 
-## Clase 4: Interafces Gráficas en JAVA
+## Clase 5: Interafces Gráficas en JAVA
 
 _Fecha: 23-02-2024_
 
