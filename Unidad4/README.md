@@ -35,3 +35,32 @@ En esta clase se abordaron los temas de la programación orientada a objetos, la
 ### 💻 Ejemplo de la Clase
 
 Lo puedes encontrar en:  [Clase4/src/clase4/Clase4](./Clase4/src/clase4/Clase4.java)
+
+## Clase 6: Lenguaje de Modelado Unificado (UML)
+
+_Fecha: 01-03-2024_
+
+### 📖 Contenido:
+
+- Introducción a UML
+- Diagramas de UML
+    - Diagrama de Clases
+        - Atributos
+        - Métodos
+        - Relaciones
+            - Asociación
+            - Agregación
+            - Composición
+            - Herencia
+
+### 🎥 Grabación de la Clase
+
+**Clase 6**: [https://drive.google.com/file/d/1QAAG6wdfP3_RD7tfRm40UAle8K5SHYtA/view?usp=sharing](https://drive.google.com/file/d/1QAAG6wdfP3_RD7tfRm40UAle8K5SHYtA/view?usp=sharing)
+
+### 💻 Ejemplo del Diagrama de Clases
+
+Lo puedes encontrar en:  [Diagrama de Clases.pdf](./Diagrama%20de%20Clases.pdf)
+
+### 💻 Ejemplo de GUI
+
+Lo puedes encontrar en:  [Clase6/src/clase6/Clase6](./Clase6/src/clase6/Clase6.java)
