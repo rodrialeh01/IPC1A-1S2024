@@ -24,6 +24,7 @@ Este repositorio esta orientado a apoyar a los estudiantes de IPC1 de lo desarol
 - [`👾 Unidad 4:`](./Unidad4/) Programación Orientada a Objetos
 - [`💻 Unidad 5:`](./Unidad5/) Interfaces Gráficas en JAVA
 - [`🧵 Unidad 6:`](./Unidad6/) Concurrencia y Paralelismo
+- [`💾 Unidad 7:`](./Unidad7/) Manejo de Archivos
 
 ### Extras
 - [`🧑‍💻 Práctica 1`](./Practica1/)
