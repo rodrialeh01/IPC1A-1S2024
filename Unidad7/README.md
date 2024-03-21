@@ -22,4 +22,4 @@ En esta clase se abordaron los temas de manejo de archivos de texto plano y seri
 
 ### 💻 Ejemplo de la Clase
 
-Lo puedes encontrar en:  [Clase7/src](./Clase7/src)
+Lo puedes encontrar en:  [Clase8/src](./Clase8/src)
