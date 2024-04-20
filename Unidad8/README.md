@@ -34,4 +34,27 @@ En esta clase se abordaron los temas de React, un framework de JavaScript para e
 
 ### 💻 Ejemplo de la Clase
 
-Lo puedes encontrar en:  [Clase9/src](./Clase9)
+Lo puedes encontrar en:  [Clase9](./Clase9)
+
+## Clase 10: Continuación de Frontend con React
+
+_Fecha: 19-04-2024_
+
+En esta clase se abordaron los temas de librerías y del uso de base64 para las imagenes.
+
+### 📖 Contenido:
+
+- Base64
+    - Conversión de imágenes a base64
+- Librerías
+    - Chart.js
+    - Date-fns
+    - React-icons
+
+### 🎥 Grabación de la Clase
+
+**Clase 10**: [https://drive.google.com/file/d/1YK-yH-k1yTRQqRKZKtshVbDAEja1R-lt/view?usp=sharing](https://drive.google.com/file/d/1YK-yH-k1yTRQqRKZKtshVbDAEja1R-lt/view?usp=sharing)
+
+### 💻 Ejemplo de la Clase
+
+Lo puedes encontrar en:  [Clase10](./Clase10)
