@@ -27,12 +27,14 @@ Este repositorio esta orientado a apoyar a los estudiantes de IPC1 de lo desarol
 - [`💾 Unidad 7:`](./Unidad7/) Manejo de Archivos
 - [`🌎 Unidad 8:`](./Unidad8/) Programación web
 - [`☁️ Unidad 9:`](./Unidad9/) Cloud Computing
+- [`🤓 Unidad Extra:`](./UnidadExtra/) Listas Dinámicas
 
 ### Extras
 - [`🧑‍💻 Práctica 1`](./Practica1/)
 - [`👨🏻‍⚕️ Proyecto 1`](./Proyecto1/)
 - [`🚗 Práctica 2`](./Practica2/)
 - [`👥 Proyecto 2`](./Proyecto2/)
+- [`🎥 Grabaciones Laboratorios Extra`](./GrabacionesExtra/)
 
 ## 👤Contacto
 
