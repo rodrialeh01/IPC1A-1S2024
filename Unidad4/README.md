@@ -30,7 +30,7 @@ En esta clase se abordaron los temas de la programación orientada a objetos, la
 
 ### 🎥 Grabación de la Clase
 
-**Clase 4**: [https://drive.google.com/file/d/1apGoan6Jsg9u3i2wdYYruBfLS7-w1nUD/view?usp=sharing](https://drive.google.com/file/d/1apGoan6Jsg9u3i2wdYYruBfLS7-w1nUD/view?usp=sharing)
+**Clase 4**: [https://youtu.be/GJ0MN3tPCuQ](https://youtu.be/GJ0MN3tPCuQ)
 
 ### 💻 Ejemplo de la Clase
 
@@ -55,7 +55,7 @@ _Fecha: 01-03-2024_
 
 ### 🎥 Grabación de la Clase
 
-**Clase 6**: [https://drive.google.com/file/d/1QAAG6wdfP3_RD7tfRm40UAle8K5SHYtA/view?usp=sharing](https://drive.google.com/file/d/1QAAG6wdfP3_RD7tfRm40UAle8K5SHYtA/view?usp=sharing)
+**Clase 6**: [https://youtu.be/ykLSK0tith8](https://youtu.be/ykLSK0tith8)
 
 ### 💻 Ejemplo del Diagrama de Clases
 
