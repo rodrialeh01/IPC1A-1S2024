@@ -26,7 +26,7 @@ En esta clase se abordaron los temas de versionamiento, Git, GitHub y GitKraken,
 
 ### 🎥 Grabación de la Clase
 
-**Clase 3**: [https://drive.google.com/file/d/1fECGoCW-I_SF0q3h4TXwKPc02FQxG355/view?usp=sharing](https://drive.google.com/file/d/1fECGoCW-I_SF0q3h4TXwKPc02FQxG355/view?usp=sharing)
+**Clase 3**: [https://youtu.be/4XcRoBj0a7o](https://youtu.be/4XcRoBj0a7o)
 
 ### 💻 Ejemplo de la Clase
 
