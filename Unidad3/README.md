@@ -29,7 +29,7 @@ En esta clase se abordaron los temas de manejo de errores, debug y pruebas, los 
 
 ### 🎥 Grabación de la Clase
 
-**Clase 3**: [https://youtu.be/4XcRoBj0a7o](https://youtu.be/4XcRoBj0a7o)
+**Clase 3**: [https://youtu.be/4XcRoBj0a7o](https://youtu.be/Zl3gBlYeQ6U)
 
 ### 💻 Ejemplo de la Clase
 
