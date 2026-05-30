@@ -38,7 +38,7 @@ Es el comienzo de una introduccion muy extensa de JAVA, puede ser mucho contenid
 - Funciones
 
 ### 🎥 Grabación de la Clase
-**Clase 1**: [https://drive.google.com/file/d/182qHAqYi-rsTtZ-hWKj4gjYKHOnXUEvH/view?usp=sharing]( https://drive.google.com/file/d/182qHAqYi-rsTtZ-hWKj4gjYKHOnXUEvH/view?usp=sharing)
+**Clase 1**: [https://youtu.be/ox2n7OH-cao](https://youtu.be/ox2n7OH-cao)
 
 ### 💻 Código de la Clase
 
@@ -73,7 +73,7 @@ En esta clase se abarcó los temas de memoria y de como se almacenan los datos e
 
 ### 🎥 Grabación de la Clase
 
-**Clase 2**: [https://drive.google.com/file/d/1r-_P0bkW3jR9IF5Pdp0rHh8j31SyfJeD/view?usp=drive_link]( https://drive.google.com/file/d/1r-_P0bkW3jR9IF5Pdp0rHh8j31SyfJeD/view?usp=drive_link)
+**Clase 2**: [https://youtu.be/qbvmZrqDwBE](https://youtu.be/qbvmZrqDwBE)
 
 ### 💻 Código de la Clase
 
