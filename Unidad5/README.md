@@ -28,7 +28,7 @@ En esta clase se abordaron los temas de las interfaces gráficas en JAVA.
 
 ### 🎥 Grabación de la Clase
 
-**Clase 5**: [https://youtu.be/CUqO3u0PUaQ](https://youtu.be/CUqO3u0PUaQ)
+**Clase 5**: [https://youtu.be/iJYF7zHkLiw](https://youtu.be/iJYF7zHkLiw)
 
 ### 💻 Ejemplo de la Clase
 
